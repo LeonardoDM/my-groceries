@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id":1,
+            "name": "Bolacha",
+            "price": 5.99,
+            "image": "bolacha-salgada.jpg"
+        },
+        {
+            "id":2,
+            "name": "Água Sanitária",
+            "price": 6.99,
+            "image": "agua-sanitaria-5l.jpg"
+        },
+        {
+            "id":3,
+            "name": "Desodorante 90g",
+            "price": 5.99,
+            "image": "desodorante-90g.jpg"
+        },
+        {
+            "id":4,
+            "name": "Iogurte",
+            "price": 5.99,
+            "image": "iogurte.jpg"
+        },
+        {
+            "id":5,
+            "name": "Pão Integral",
+            "price": 5.99,
+            "image": "pao-integral.jpg"
+        },
+        {
+            "id":6,
+            "name": "Papel Higiênico",
+            "price": 5.99,
+            "image": "papel-hg.jpg"
+        },
+        {
+            "id":7,
+            "name": "Pasta de Dente",
+            "price": 5.99,
+            "image": "pasta-dente.jpg"
+        },
+        {
+            "id":8,
+            "name": "Refrigerante 2L",
+            "price": 5.99,
+            "image": "refrigerante-2l.jpg"
+        },
+        {
+            "id":9,
+            "name": "Sabonete 85g",
+            "price": 5.99,
+            "image": "sabonete-85g.jpg"
+        },
+        {
+            "id":10,
+            "name": "Saco de Lixo 100L",
+            "price": 5.99,
+            "image": "saco_de_lixo-100l.jpg"
+        },
+        {
+            "id":11,
+            "name": "Sal 1Kg",
+            "price": 5.99,
+            "image": "sal-1kg.jpg"
+        },
+        {
+            "id":12,
+            "name": "Salsicha 500g",
+            "price": 5.99,
+            "image": "salsicha-500g.jpg"
+        }
+    ]
+}
